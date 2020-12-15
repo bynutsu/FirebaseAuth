@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606594650719",
+    "project_id": "forkatsita",
+    "storage_bucket": "forkatsita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606594650719:android:f1045b4ef8f1a953b281ea",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606594650719-j8o6p0o4qtprl78l2jkcnq2mrglkem7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauth",
+            "certificate_hash": "b699a3bb5aeeed9cc0125cc125d9678ec443dfce"
+          }
+        },
+        {
+          "client_id": "606594650719-3u8s0po8d193qp5li6b9cir6r3n2n96l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWX5eEL-ThCRVpSzWim1rcPqrsSegXSko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606594650719-3u8s0po8d193qp5li6b9cir6r3n2n96l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
